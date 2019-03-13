@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lotto Generator</string>
+    <string name="push_button">Please push button</string>
+    <string name="generate">Generate</string>
+</resources>
